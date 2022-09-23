@@ -1,0 +1,9 @@
+"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"R2,R4,R1,R3";"R_0603_1608Metric";4;"4,7 k";;;
+2;"D1";"D_0603_1608Metric";1;"DIODE";;;
+3;"R5";"R_0603_1608Metric";1;"220";;;
+4;"U3,U4,U2,U1";"SOT-23";4;"DRV5057A2QDBZT";;;
+5;"C3,C1,C2,C4";"C_0402_1005Metric";4;"10 µF";;;
+6;"H2,H1";"MountingHole_2.1mm";2;"MountingHole";;;
+7;"J2";"PinHeader_2x03_P2.54mm_Horizontal";1;"Conn_02x03_Odd_Even";;;
+8;"D2";"LED_0603_1608Metric";1;"LED";;;
